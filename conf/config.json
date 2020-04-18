@@ -1,0 +1,28 @@
+{
+   "connector":[
+      {
+         "url":"http://localhost:18083",
+         "username":"abc",
+         "password":"123"
+      }
+   ],
+   "schemaRegistry":[
+      {
+         "url":"https://psrc-4yovk.us-east123-2.aws.confluent.cloud",
+         "username":"xxxx",
+         "password":"xxxxx"
+      },
+      {
+         "url":"https://psrc-4yovk.us-east-2.aws.confluent.cloud",
+         "username":"xxxx",
+         "password":"xxxx"
+      }
+   ],
+   "ksql":[
+      {
+         "url":"http://localhost:18083",
+         "username":"abc",
+         "password":"123"
+      }
+   ]
+}
